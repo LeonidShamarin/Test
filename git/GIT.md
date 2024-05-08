@@ -18,7 +18,7 @@ git checkout task_4
 ```
 
 ## Крок 3: Злиття змін з гілки `dev`
-Для того щоб додати зміни з гілки dev в мою гілку `task_4`, я використаю команду `git merge dev`. Ця команда об'єднає зміни з гілки dev у моїй гілці `task_4`.
+Для того щоб додати зміни з гілки `dev` в мою гілку `task_4`, я використаю команду `git merge dev`. Ця команда об'єднає зміни з гілки dev у моїй гілці `task_4`.
 
 ```bash
 git merge dev
@@ -34,7 +34,7 @@ git add .
 І закомітити їх:
 
 ```bash
-git commit -m "merge dev - resolve conflicts"
+git commit -m "merge dev(resolve conflicts)"
 ```
 
 ## Крок 5: Збереження змін
